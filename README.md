@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm abensur!
 
-- 🏃 I’m currently working at [A55](https://www.a55.tech) as Tech Lead for the frontend team
+- 🏃 I’m currently working as Software Engineer at [A55](https://www.a55.tech).
 - 🌱 I’m interested in the future of web & dataviz.
 - 🏆 Use my vscode extension if you are working with [Brazil's tax id](https://marketplace.visualstudio.com/items?itemName=abensur.br-tax-id-generator) 
 - 💖 In the past I've made a lot of [pens](https://codepen.io/abensur) to learn and show off
