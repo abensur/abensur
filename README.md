@@ -1,4 +1,4 @@
-### Hi there 👋 I'm abensur!
+### Hi there 👋 !
 
 - 🏃 I’m currently working as Software Engineer at [A55](https://www.a55.tech).
 - 🌱 I’m interested in the future of web & dataviz.
